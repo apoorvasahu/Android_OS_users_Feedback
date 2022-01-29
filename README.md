@@ -30,11 +30,11 @@ Used *WordCloud* technique in python library [*a data visualization technique us
 
 3. Further categorised the **training data** according to NPS score, screen type and view type.
 
-         1. Promoters, NPS score 9,10.  
+         I. Promoters, NPS score 9,10.  
 
-         2. Passives, NPS score 7,8.        
+         II. Passives, NPS score 7,8.        
 
-         3. Detractors, NPS score ≤6.     
+         III. Detractors, NPS score ≤6.     
 
 4. Further dividing the detractors data meaning less NPS score feedback into 4 parts to deeply    
 [To analyse the most frequent negative feedbacks** given by users.] 
